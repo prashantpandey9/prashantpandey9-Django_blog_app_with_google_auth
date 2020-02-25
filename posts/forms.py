@@ -1,6 +1,6 @@
 from django import forms
 
-from .models import *
+from .models import Post,Author	
 # class PostForm(forms.Form):
 # 	title=forms.Charfield()
 # 	discription=forms.Charfield()
